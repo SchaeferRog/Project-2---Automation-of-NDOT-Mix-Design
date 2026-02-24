@@ -1,12 +1,12 @@
 # Project-2-Automation of NDOT Mix Design.
 ---
 ## This includes files for Project no. 2:
-- [Gantt Chart]()
-- [Scope of Work]()
-- [Annotated Code Document]()
-- [Mix Design]()
-- [Python Code]()
-- [Written Report]()
+- [Gantt Chart](https://github.com/SchaeferRog/Project-2---Automation-of-NDOT-Mix-Design/blob/main/CIVE202_Spring2026_Group151-07_Project2_GanttChart.xlsx)
+- [Scope of Work](https://github.com/SchaeferRog/Project-2---Automation-of-NDOT-Mix-Design/blob/main/CIVE202_Spring2026%2BGroup151-07_Project2_SOW.docx)
+- [Annotated Code Document](https://github.com/SchaeferRog/Project-2---Automation-of-NDOT-Mix-Design/blob/main/CIVE202_Spring2026_Group151-07_Project2_ACD.xlsx)
+- [Mix Design](https://github.com/SchaeferRog/Project-2---Automation-of-NDOT-Mix-Design/blob/main/CIVE202_Spring2026_Group151-07_Project2_MixDesign.docx)
+- [Python Code](https://github.com/SchaeferRog/Project-2---Automation-of-NDOT-Mix-Design/blob/main/CIVE202_Spring2026_Group151-07_Project2_PythonCodeV4.ipynb)
+- [Written Report](https://github.com/SchaeferRog/Project-2---Automation-of-NDOT-Mix-Design/blob/main/CIVE202_Spring2026_Group151-07_Project2_WrittenReport.docx)
 
 ---
 ## Overview
