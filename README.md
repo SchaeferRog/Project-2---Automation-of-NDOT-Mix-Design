@@ -1,15 +1,12 @@
 # Project-2-Automation of NDOT Mix Design.
 ---
 ## This includes files for Project no. 2:
-- [Gantt Chart](https://github.com/Aperrotto/Project-2-/blob/main/CIVE202_Spring2026_Group151-07_Project2_GanttChart.xlsx)
-- [Scope of Work](https://github.com/Aperrotto/Project-2-/blob/main/CIVE202_Spring2026%2BGroup151-07_Project2_SOW.docx)
-- [Annotated Code Document](https://github.com/Aperrotto/Project-2-/blob/main/CIVE202_Spring2026_Group151-07_Project2_ACD.xlsx)
-- [Mix Design](https://github.com/Aperrotto/Project-2-/blob/main/CIVE202_Spring2026_Group151-07_Project2_MixDesign.docx)
-- [Mix 1 Code](https://github.com/Aperrotto/Project-2-/blob/main/CIVE202_Spring2026_Group151-07_Project2_PythonCodeV1.ipynb)
-- [Mix 2 Code](https://github.com/Aperrotto/Project-2-/blob/main/CIVE202_Spring2026_Group151-07_Project2_PythonCodeV2.ipynb)
-- [Mix 3 Code](https://github.com/Aperrotto/Project-2-/blob/main/CIVE202_Spring2026_Group151-07_Project2_PythonCodeV3.ipynb)
-- [Mix 4 Code](https://github.com/Aperrotto/Project-2-/blob/main/CIVE202_Spring2026_Group151-07_Project2_PythonCodeV4.ipynb)
-- [Written Report](https://github.com/Aperrotto/Project-2-/blob/main/CIVE202_Spring2026_Group151-07_Project2_WrittenReport.docx)
+- [Gantt Chart]()
+- [Scope of Work]()
+- [Annotated Code Document]()
+- [Mix Design]()
+- [Python Code]()
+- [Written Report]()
 
 ---
 ## Overview
@@ -124,19 +121,31 @@ In concrete engineering, designing a mix involves proportioning fine and coarse 
 - Minimum Required Strength: 4,500 psi. 
   
 ## Using The Code: 
-Input Parameters:
+Begin by running the cells from top to bottom. Run the imports and function definitions.
+Input mix parameters by running the input cell - Input when prompted: 
 
-1.  Cement (lb/cy) 
+1.  Project Number
+2.  Class of Concrete
+3.  Control Number
+4.  Weight of Cement per yd3
+5.  Weight of Fly Ash per yd3
+6.  Weight of Silica Fume per yd3
+7.  Weight of other SCM per yd3
+8.  Target Water/Cement Ratio
+9.  Target % Air Content
+10.  Target % Fine Aggregate
+11.  Target % Coarse Aggregate
+12.  Target % Other Aggregate
+13.  Weight of Cement per yd3 Specific Gravity
+14.  Weight of Fly Ash per yd3 Specific Gravity
+15.  Weight of Silica Fume per yd3 Specific Gravity
+16.  Weight of other SCM per yd3 Specific Gravity
+17.  Target % Fine Aggregate Specific Gravity
+18.  Target % Coarse Aggregate Specific Gravity
+19.  Target % Other Aggregate Specific Gravity
 
-2.  Max w/c Ratio 
-
-3.  Air Content (%) 
-
-4.  Min. Strength (psi) 
-
-5.  Primary Usage 
-
-Outputs weights:
+Next, run the calculations and output cell
+View outputs weights in the table produced:
 
 1. Cement
 2. Fly Ash
