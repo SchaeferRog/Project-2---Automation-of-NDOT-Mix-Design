@@ -122,7 +122,7 @@ In concrete engineering, designing a mix involves proportioning fine and coarse 
   
 ## Using The Code: 
 Begin by running the cells from top to bottom. Run the imports and function definitions.
-Input mix parameters by running the input cell - Input when prompted: 
+Input mix parameters by running the input cell. Input when prompted: 
 
 1.  Project Number
 2.  Class of Concrete
@@ -144,8 +144,8 @@ Input mix parameters by running the input cell - Input when prompted:
 18.  Target % Coarse Aggregate Specific Gravity
 19.  Target % Other Aggregate Specific Gravity
 
-Next, run the calculations and output cell
-View outputs weights in the table produced:
+Next, run the calculations and output cell.
+View outputs weights in the table produced by the program:
 
 1. Cement
 2. Fly Ash
